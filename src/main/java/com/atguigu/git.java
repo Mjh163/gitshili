@@ -13,6 +13,8 @@ public class git {
         System.out.println("mian 吆西 的干活");
 
         System.out.println("mian 吆西 的干活");
+         System.out.println("手动夹取");
+        
 
     }
 }
